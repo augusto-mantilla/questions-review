@@ -1,7 +1,6 @@
 #### btreetransplant
 
-##### Try with the arguments:
-```
+##### Try with the arguments:```
 root =
 01
 └── 07
