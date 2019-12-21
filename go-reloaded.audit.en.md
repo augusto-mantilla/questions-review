@@ -1,6 +1,7 @@
 #### btreetransplant
 
-##### Try with the arguments: ``` root =
+##### Try with the arguments:
+``` root =
 01
 └── 07
     ├── 12
@@ -29,7 +30,8 @@ repla =
             └── 03
 ```
 ###### Does the function returns the value above?
-##### Try with the arguments: ``` root =
+##### Try with the arguments:
+``` root =
 33
 ├── 5
 │   └── 52
@@ -56,7 +58,8 @@ repla =
             └── 15
 ```
 ###### Does the function returns the value above?
-##### Try with the arguments: ``` root =
+##### Try with the arguments:
+``` root =
 03
 └── 39
     ├── 99
@@ -85,7 +88,8 @@ repla =
                 └── 15
 ```
 ###### Does the function returns the value above?
-##### Try with the arguments: ``` root =
+##### Try with the arguments:
+``` root =
 03
 ├── 03
 │   └── 94
@@ -113,7 +117,8 @@ repla =
 └── 01
 ```
 ###### Does the function returns the value above?
-##### Try with the arguments: ``` root =
+##### Try with the arguments:
+``` root =
 02
 ├── 03
 │   └── 92
@@ -129,7 +134,6 @@ repla =
     └── 12
         └── 15
 ```
-###### Does the function returns(1)
 ```
 02
 ├── 03
@@ -140,7 +144,10 @@ repla =
 │               └── 15
 └── 01
 ```
-##### Try with the arguments: `root = `
+###### Does the function returns the value above?
+##### Try with the arguments:
+```
+root = 
 00
 └── 02
     └── 04
@@ -155,8 +162,8 @@ repla =
 └── 33
     └── 12
         └── 15
-
-###### Does the function returns(1)
+```
+```
 00
 └── 02
     └── 04
@@ -168,8 +175,11 @@ repla =
                     └── 33
                         └── 12
                             └── 15
-?
-##### Try with the arguments: `root = `
+```
+###### Does the function returns the value above?
+##### Try with the arguments:
+```
+root = 
 02
 └── 03
     └── 06
@@ -184,8 +194,8 @@ repla =
 └── 33
     └── 12
         └── 15
-
-###### Does the function returns(1)
+```
+```
 02
 └── 03
     └── 55
@@ -193,8 +203,11 @@ repla =
         └── 33
             └── 12
                 └── 15
-?
-##### Try with the arguments: `root = `
+```
+###### Does the function returns the value above?
+##### Try with the arguments:
+```
+root = 
 06
 ├── 07
 │   └── 09
@@ -209,11 +222,12 @@ repla =
 └── 33
     └── 12
         └── 15
-
-###### Does the function returns(1)
+```
+```
 55
 ├── 60
 └── 33
     └── 12
         └── 15
-?
+```
+###### Does the function returns the value above?
