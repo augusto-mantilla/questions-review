@@ -1,7 +1,8 @@
 #### btreetransplant
 
 ##### Try with the arguments:
-``` root =
+```
+root =
 01
 └── 07
     ├── 12
@@ -31,7 +32,8 @@ repla =
 ```
 ###### Does the function returns the value above?
 ##### Try with the arguments:
-``` root =
+```
+root =
 33
 ├── 5
 │   └── 52
@@ -59,7 +61,8 @@ repla =
 ```
 ###### Does the function returns the value above?
 ##### Try with the arguments:
-``` root =
+```
+root =
 03
 └── 39
     ├── 99
@@ -89,7 +92,8 @@ repla =
 ```
 ###### Does the function returns the value above?
 ##### Try with the arguments:
-``` root =
+```
+root =
 03
 ├── 03
 │   └── 94
@@ -118,7 +122,8 @@ repla =
 ```
 ###### Does the function returns the value above?
 ##### Try with the arguments:
-``` root =
+```
+root =
 02
 ├── 03
 │   └── 92
